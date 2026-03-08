@@ -122,12 +122,4 @@ Seaborn
 
 Matplotlib
 
-How to Run
 
-Clone the repository
-
-Place products_asos.csv in the project directory
-
-Open ASOS_Dataset_Analysis.ipynb
-
-Run all cells in sequence
